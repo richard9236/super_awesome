@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=tV_y0w52LPI
 -- showing full lobby bandwidth, weapon skills, equipping pokemon, server error logs
 https://www.youtube.com/watch?v=Yv_D01sGH78
 
+-- showing destroying wild monsters via void
+https://www.youtube.com/watch?v=VmAH4VRTQjo
+
+-- showing wild monsters despawning in chunks player does not trigger in
+https://www.youtube.com/watch?v=tU2hUm6JD2w
+
 -- game link
 https://www.roblox.com/games/12790940908
 
@@ -18,13 +24,16 @@ Press this to add
   - 100 master balls
   - 10k gold and 10k silver
 
-![get_abmin_inv](https://github.com/user-attachments/assets/a1ea6b45-ccd5-4f38-a6d5-51c6fc9af132)
+![get_abmin_inv2](https://github.com/user-attachments/assets/930b6ad5-cb64-46ab-9aab-39523e7a0ecb)
 
+I also added a loadstring menu.
 
 # Ad Manager Data
 Overall bad. About 3-5 minutes average playtime. 
 It does have good parts but its extremely difficult to believe you will think its photoshop. Please dm I’d love to just screen share and show you.
 
+# Anti Cheat
+Other than server sided rate-limits to protected events. There isnt any velocity/walkspeed trackers.
 
 # Error Reports
 None but failed to load sound ids
@@ -33,8 +42,6 @@ None but failed to load sound ids
 For reference, single-full lobbies
 Jailbreak and Strongest Battlegrounds are 10-60kB/s
 mine is 5-50kB/s
-
-
 
 ![my_bandwidth](https://github.com/user-attachments/assets/385436fe-a9d8-4792-b227-9128b389d8ee)
 
